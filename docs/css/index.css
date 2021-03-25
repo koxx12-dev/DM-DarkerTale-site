@@ -16,6 +16,22 @@ body {
   color:#f1f1f1;
 }
 
+.home:hover {
+  color:#f1f1f1;
+}
+
+.download:hover {
+  color:#f1f1f1;
+}
+
+.home {
+  margin-left: 150px;
+}
+
+.download {
+  margin-left: 200px;
+}
+
 .header {
   padding: 10px 16px;
   background:#494949;
@@ -26,6 +42,7 @@ body {
   -moz-user-select: none;
   -o-user-select: none;
   user-select: none;
+  display: flex;
 }
 
 /* Page content */
