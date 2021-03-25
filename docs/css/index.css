@@ -24,12 +24,19 @@ body {
   color:#f1f1f1;
 }
 
+.name {
+  margin-left: 0%;
+  font-size: 1.7vw;
+}
+
 .home {
-  margin-left: 150px;
+  margin-left: 10%;
+  font-size: 1.7vw;
 }
 
 .download {
-  margin-left: 200px;
+  margin-left: 15%;
+  font-size: 1.7vw;
 }
 
 .header {
