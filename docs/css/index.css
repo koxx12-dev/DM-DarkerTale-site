@@ -23,6 +23,15 @@ body {
   text-decoration:solid;
 }
 
+.team {
+  color:#868686;
+  text-decoration:solid;
+}
+
+.team:hover {
+  color:#f1f1f1;
+}
+
 .download:hover {
   color:#f1f1f1;
 }
@@ -62,6 +71,11 @@ body {
 
 .home {
   margin-left: 10%;
+  font-size: 1.7vw;
+}
+
+.team {
+  margin-left: 23%;
   font-size: 1.7vw;
 }
 
