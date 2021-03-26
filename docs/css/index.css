@@ -18,6 +18,11 @@ body {
   color:#f1f1f1;
 }
 
+.download {
+  color:#868686;
+  text-decoration:solid;
+}
+
 .download:hover {
   color:#f1f1f1;
 }
@@ -63,8 +68,6 @@ body {
 .download {
   margin-left: 15%;
   font-size: 1.7vw;
-  color:#868686;
-  text-decoration: solid;
 }
 
 .header {
