@@ -46,6 +46,8 @@ body {
   background-image: url(../other/backdrop.png);
   background-color: #cccccc;
   background-size: 100%;
+  
+  display: none;
 }
 
 .home:hover {

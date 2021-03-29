@@ -19,6 +19,8 @@ body {
 }
 
 .download {
+  cursor: not-allowed !important;
+  
   color:#868686;
   text-decoration:solid;
 }
